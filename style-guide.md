@@ -27,4 +27,4 @@ The designs were created to the following widths:
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
