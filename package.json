@@ -4,7 +4,7 @@
   "description": "A template for HTML and CSS",
   "main": "index.html",
   "scripts": {
-    "start": "serve"
+    "start": "live-server ."
   },
   "keywords": [
     "html",
@@ -13,6 +13,6 @@
   "author": "Ives van Hoorne",
   "license": "MIT",
   "devDependencies": {
-    "serve": "11.2.0"
+    "live-server": "^1.2.2"
   }
 }
